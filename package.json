@@ -18,5 +18,7 @@
     "uvu": "^0.5.2",
     "vite": "^2.6.4",
     "watchlist": "^0.3.1"
-  }
+  },
+  "license": "MIT",
+  "private": true
 }
